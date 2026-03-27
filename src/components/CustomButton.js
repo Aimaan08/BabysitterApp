@@ -29,6 +29,7 @@ textstyle: {
     color: Colors.White,
     alignSelf: 'center',
     textAlign:'center',
+#nochangesfoundeverythingok
   
 },
 
